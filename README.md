@@ -1,3 +1,18 @@
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a> 
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!-- My Ticker -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋🏻,+I'm+Yash;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+
+
+
 # 💫 About Me:
 🔬 Full-stack with Angular, Django and SQL.<br>🤝 Look collaborate for DevOPs.<br>📖 Learning Advance Concepts of Cloud Computing.<br>📝 Ask me about Front-end SQL.<br>
 
